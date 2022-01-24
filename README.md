@@ -20,6 +20,7 @@
 
 #### The application requires the following installations to operate 
 ```
+* virtualenv
 * python3.9
 * pip
 * pyperclip
@@ -34,6 +35,10 @@
 * git clone https://github.com/Gilbertyegon/password-locker.git
 
 * cd password-locker
+* virtualenv virtual
+* This will create a virtual folder
+* In Windows activate using virtual\Scripts\activate
+* In Linux  source ./virtual/bin/activate
 
 * code . or atom . based on the text editor you have.
 ```
