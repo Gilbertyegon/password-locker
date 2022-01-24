@@ -33,7 +33,7 @@
 
 * git clone https://github.com/Gilbertyegon/password-locker.git
 
-* cd PasswordLocker
+* cd password-locker
 
 * code . or atom . based on the text editor you have.
 ```
