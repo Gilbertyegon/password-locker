@@ -27,6 +27,8 @@
 
 #### Cloning
 
+```
+
 * Open Terminal {Ctrl+Alt+T}
 
 * git clone ```https://github.com/Gilbertyegon/password-locker.git```
@@ -34,6 +36,7 @@
 * cd PasswordLocker
 
 * code . or atom . based on the text editor you have.
+```
 
 ### Running the Application
 * To run the application, open the cloned file in terminal and run the following commands:
