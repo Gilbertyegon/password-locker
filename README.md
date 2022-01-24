@@ -31,9 +31,7 @@
 ```
 
 * Open Terminal {Ctrl+Alt+T}
-
 * git clone https://github.com/Gilbertyegon/password-locker.git
-
 * cd password-locker
 * virtualenv virtual
 * This will create a virtual folder
