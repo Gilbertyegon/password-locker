@@ -19,9 +19,11 @@
 ## Installation / Setup instruction
 
 #### The application requires the following installations to operate 
+```
 * python3.9
 * pip
 * pyperclip
+```
 
 #### Cloning
 
