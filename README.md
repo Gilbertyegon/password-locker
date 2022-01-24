@@ -31,7 +31,7 @@
 
 * Open Terminal {Ctrl+Alt+T}
 
-* git clone ```https://github.com/Gilbertyegon/password-locker.git```
+* git clone https://github.com/Gilbertyegon/password-locker.git
 
 * cd PasswordLocker
 
@@ -60,12 +60,12 @@
 
 ## Technologies Used
 
-* python3.9
+> * python3.9
 
 
 ## Contact Information 
-Email  me at [bravoyegon@gmail.com] :kenya:
+> Email  me at [bravoyegon@gmail.com] :kenya:
 
 ## License
-* *MIT License:*
-* Copyright (c) 2022 **GILBERT YEGON**
+> * *MIT License:*
+> * Copyright (c) 2022 **GILBERT YEGON**
