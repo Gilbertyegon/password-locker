@@ -1,4 +1,4 @@
-# Password-Locker :closed_lock_with_key:
+# Password-Locker :closed_lock_with_key: :key:
 ## Author
 
 > [gilbert yegon](https://github.com/Gilbertyegon/password-locker.git)
